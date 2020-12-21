@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.block-test {
+  background-position: center;
+  background-image: url(../images/solder.png);
+}
